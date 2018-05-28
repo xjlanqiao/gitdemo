@@ -10,7 +10,8 @@ import java.util.Scanner;
 public class Demo1 {
 	//最大公约数计算方法
 	 public static int commonDivisor(int x,int y){
-	    	//如果x小于y将两个值进行交换
+	    	//123
+		 //如果x小于y将两个值进行交换
 	        if(x < y){
 	            int t = x;
 	            x = y;
