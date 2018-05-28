@@ -8,7 +8,11 @@
 </head>
 <body>
 	hello jsp
+<<<<<<< HEAD
 	123123
+=======
+	abc
+>>>>>>> branch 'master' of https://github.com/xjlanqiao/gitdemo.git
 	456
 </body>
 </html>
